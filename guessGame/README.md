@@ -5,7 +5,7 @@ This is number guessing game made by me(@g8fyol) while persuing udemy course "js
 ## Demo
 
 Netlify link :
-https://numberguessing-g8fyol.netlify.app/
+https://guessgame-g8fyol.netlify.app/
 
 ## Screenshots
 
